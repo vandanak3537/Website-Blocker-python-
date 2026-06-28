@@ -93,5 +93,4 @@ Free time... Unblocking websites.
 This project is available under the MIT License.
 
 
-GitHub: [https://github.com/vandanak3537](https://github.com/vandanak3537)
-LinkedIn: [https://linkedin.com/in/vandanakankara](https://linkedin.com/in/vandanakankara)
+
